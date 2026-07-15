@@ -6,22 +6,15 @@ I work across Go, Python, and TypeScript, with a focus on scalable microservices
 
 My background includes real-time Web3 wallet flows across TON and EVM, cross-chain stablecoin reconciliation, TON Connect protocol infrastructure, regulated financial workflows, identity/auth platforms, ML model serving, and data pipelines.
 
-## Core Stack
+### 🛠 Core Engineering Stack
+* **Languages:** Go, Python, TypeScript, Rust, SQL, Solidity
+* **Architecture:** Microservices, gRPC, WebSockets, REST APIs, Event-Driven Architecture (EDA), Idempotency, CQRS
+* **Frameworks:** FastAPI, NestJS, Tokio, Axum, Go-kit
+* **Infra & DevOps:** PostgreSQL, Redis, Docker, GitHub Actions, AWS
+* **MLOps & Data:** ML Model Serving, Data ETL Pipelines, Pandas, PyTorch
+* **Web3 Ecosystem:** TON Connect, EVM, Cross-chain flows, Foundry
 
-- Go, Python, TypeScript, JavaScript, SQL, Solidity
-- FastAPI, NestJS, Express, Go-kit
-- PostgreSQL, Redis, Docker, GitHub Actions
-- gRPC, WebSockets, REST APIs, event-driven architecture
-- ML model serving, ETL pipelines, MLOps
-- TON Connect, EVM, Foundry
-
-## Featured Projects
-
-### Playwright Test Automation Portfolio
-
-A TypeScript Playwright framework for demo e-commerce, public API, Web3, and visual regression testing.
-
-## Contact
-
-- Telegram: [@arthur-stone](https://t.me/arthur-stone)
-- Email: arthur.engineer@protonmail.com
+### 📫 Let's Connect
+* **Telegram:** [@arthur_stone_dev](https://t.me/arthur_stone_dev)
+* **Email:** [arthur.engineer@protonmail.com](mailto:arthur.engineer@protonmail.com)
+* **LinkedIn:** [linkedin.com/in/arthurstonedev](https://linkedin.com/in/arthurstonedev)
